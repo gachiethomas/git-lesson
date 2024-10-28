@@ -8,5 +8,6 @@ I have  lots of things i need to do today
 - Go to home
   1. Gym
   2. Make something to eat
+  3. Read a book
 
 - Sleep 
