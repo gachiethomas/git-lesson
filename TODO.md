@@ -9,5 +9,11 @@ I have  lots of things i need to do today
   1. Gym
   2. Make something to eat
   3. Read a book
-
 - Sleep 
+
+## Things to do tomorrow
+- Learn the second part tomorrow
+- Have some lunch with friends
+- Re-read how to build a decision tree
+- 
+
